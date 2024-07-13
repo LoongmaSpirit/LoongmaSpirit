@@ -24,7 +24,7 @@
 - 🔥 [如何用 YubiKey 或 CanoKey 在 Windows 平台生成 GPG 并签名 Github Commit | 小翎哥的博客](https://iling.me/blog/posts/how-to-generate-gpg-keys-using-yubikey-or-canokey/ "Thu Dec 28 2023 1:56 AM")
 - 👨‍💻 [分布式任务调度平台 XXL-JOB 开发示例与核心原理 | 小翎哥的博客](https://iling.me/blog/posts/development-and-principles-of-xxl-job/ "Wed Dec 06 2023 6:39 AM")
 - 👨‍💻 [二叉树的性质详解与 Java 代码实现 | 小翎哥的博客](https://iling.me/blog/posts/binary-tree/ "Sun Dec 18 2022 2:01 AM")
-- 🔥 [GIS 算法 - 判断地图要素的旋转方向是否是顺时针 | 小翎哥的博客](https://iling.me/blog/posts/gis-clockwise-check/ "Thu Jun 09 2022 4:39 AM")
+- 🔥 [如何判断地图要素的旋转方向 - GIS 算法 | 小翎哥的博客](https://iling.me/blog/posts/gis-clockwise-check/ "Thu Jun 09 2022 4:39 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
