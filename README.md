@@ -15,7 +15,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 📝 [Apache ZooKeeper 开发示例与核心原理 | 小翎哥的博客](https://iling.me/blog/posts/development-and-principles-of-apache-zookeeper/ "Sun Jul 28 2024 2:28 AM")
+- 📝 [Apache ZooKeeper 开发示例与核心原理 | 小翎哥的博客](https://iling.me/blog/posts/development-and-principles-of-apache-zookeeper/ "Sat Aug 10 2024 2:28 AM")
 - 🔥 [小翎哥的 LeetCode 算法习题册 | 小翎哥的博客](https://iling.me/blog/posts/algorithm-exercise-book/ "Sat Jun 22 2024 2:01 AM")
 - 📝 [RPC &lpar;Remote Procedure Call&rpar; 架构理论与框架详解 | 小翎哥的博客](https://iling.me/blog/posts/detailed-explanation-of-remote-procedure-call/ "Sat Jun 08 2024 3:22 PM")
 - 👨‍💻 [分布式系统理论与架构详解 | 小翎哥的博客](https://iling.me/blog/posts/detailed-explanation-of-distributed-systems/ "Sat Jun 01 2024 9:12 AM")
