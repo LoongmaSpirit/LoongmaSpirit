@@ -23,7 +23,7 @@
 - 📝 [Apache Tomcat 9 核心原理剖析 | 小翎哥的博客](https://iling.me/blog/posts/core-principles-of-apache-tomcat-9/ "Mon May 20 2024 2:12 AM")
 - 🔥 [Java 8 HashMap 底层原理 | 小翎哥的博客](https://iling.me/blog/posts/java-hashmap/ "Wed May 01 2024 2:28 AM")
 - 👨‍💻 [如何利用 Docker &amp; Nginx 在 VPS 上部署 Firefly III 记账软件 | 小翎哥的博客](https://iling.me/blog/posts/how-to-install-firefly-iii/ "Fri Jan 12 2024 2:12 AM")
-- 👨‍💻 [如何用 YubiKey 或 CanoKey 在 Windows 平台生成 GPG 并签名 Github Commit | 小翎哥的博客](https://iling.me/blog/posts/how-to-generate-gpg-keys-using-yubikey-or-canokey/ "Thu Dec 28 2023 1:56 AM")
+- 👨‍💻 [YubiKey &lpar;CanoKey&rpar; 如何在 Windows 平台生成 GPG 秘钥 | 小翎哥的博客](https://iling.me/blog/posts/how-to-generate-gpg-keys-using-yubikey-or-canokey/ "Thu Dec 28 2023 1:56 AM")
 - 🔥 [分布式任务调度平台 XXL-JOB 开发示例与核心原理 | 小翎哥的博客](https://iling.me/blog/posts/development-and-principles-of-xxl-job/ "Wed Dec 06 2023 6:39 AM")
 
 <!-- BLOG-POST-LIST:END -->
