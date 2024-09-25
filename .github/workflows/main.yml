@@ -19,7 +19,7 @@ jobs:
       - name: Pull in iling.me posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: 'https://iling.me/blog/index.xml'
+          feed_list: 'https://iling.me/rss.xml'
           feed_names: '小翎哥的博客'
           template: '- $randomEmoji(🔥,📝,👨‍💻) [$title | $feedName]($url "$date")$newline'
           max_post_count: 10
